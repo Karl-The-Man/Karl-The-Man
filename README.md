@@ -37,6 +37,7 @@ So far, that has included winning **Best Student Company in Estonia**, represent
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-111111?style=for-the-badge&logo=postgresql)
 
 **Infra & Tools** 
+
 ![Git](https://img.shields.io/badge/Git-111111?style=for-the-badge&logo=git)
 ![Vercel](https://img.shields.io/badge/Vercel-111111?style=for-the-badge&logo=vercel)
 ![Railway](https://img.shields.io/badge/Railway-111111?style=for-the-badge&logo=railway)
