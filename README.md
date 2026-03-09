@@ -43,5 +43,5 @@ So far, that has included winning **Best Student Company in Estonia**, represent
 ![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=0A0A0A)
 
 
-### let's Connect
+### Let's Connect
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Karl_Elmar_Vikat-111111?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/karl-elmar-vikat/)
